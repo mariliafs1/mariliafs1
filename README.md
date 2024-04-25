@@ -1,5 +1,5 @@
 # 💫 About Me:
-Oieee! Meu nome é Marília, sou formada em Engenharia Mecatrônica<br>mas atualmente estudo programação.<br>Comecei focada no Front-End e agora curso a trilha DevWeb FullStack <br>do programa Desenvolve do grupo Boticário!
+Oieee! Meu nome é Marília, sou formada em Engenharia Mecatrônica mas atualmente estudo programação. Comecei focada no Front-End e agora curso a trilha DevWeb FullStack do programa Desenvolve do grupo Boticário!
 
 
 ## 🌐 Socials:
